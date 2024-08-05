@@ -326,6 +326,9 @@ button a{
   footer{
     align-items: center;
   }
+    .description{
+        font-size: 14px;
+    }
   .description2{
     border-radius: 1.8rem;
   }
