@@ -445,6 +445,9 @@ nav ul{
   margin-top: 15rem;
   flex-direction: column;
 }
+    .description{
+        font-size: 14px;
+    }
 .line{
   margin-left: 18rem;
   display: inline;
